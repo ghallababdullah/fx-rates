@@ -1,0 +1,6 @@
+httpx==0.27.*
+beautifulsoup4==4.12.*
+lxml==5.*
+pika==1.3.*
+certifi
+pytest==8.*
